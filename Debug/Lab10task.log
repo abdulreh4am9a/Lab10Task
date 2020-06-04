@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\OOP\Lab10task\Lab10task\Source.cpp(25): warning C4172: returning address of local variable or temporary: temp
+E:\OOP\Lab10task\Lab10task\Source.cpp(33): warning C4172: returning address of local variable or temporary: temp
+  Lab10task.vcxproj -> E:\OOP\Lab10task\Debug\Lab10task.exe
